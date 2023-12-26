@@ -22,3 +22,13 @@ public class fibonacciseries
 		
 	 }
 }
+\\OUTPUT
+\\Enter the number of terms of the Series:  6
+
+\\The Fibonacci Series is -----------------
+\\      0
+\\      1
+\\      1
+\\      2
+\\      3
+\\      5
