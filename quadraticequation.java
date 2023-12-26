@@ -32,10 +32,3 @@ public class quadraticequation
 		}
 	}
 }
-\\output
-\\Enter the coeffiect for quadratic term: 4
-
-\\Enter the coeffiect for linear term: 7
-
-\\Enter the constant term: 9
-\\Both roots are imaginary.
