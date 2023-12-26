@@ -17,3 +17,6 @@ public class alphabetcharacter
        }
     }
 }
+\\Please enter a characher: g
+
+\\Entred character is an Alphabet.
