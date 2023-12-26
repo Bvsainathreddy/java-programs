@@ -17,3 +17,6 @@ public class reverseorder
 	     System.out.print("\nReverse of the givne number is " + reversenum); 
 	}
 }
+\\Enter the number: 5678
+\\5675650
+\\Reverse of the givne number is 8765
